@@ -33,6 +33,7 @@
 
   <modules>
     <module>activiti-services-audit-jpa</module>
+    <module>activiti-services-audit-mongo</module>
   </modules>
 
 </project>
